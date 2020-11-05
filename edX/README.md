@@ -1,6 +1,7 @@
 # List of edX Courses
 
-## 1. Using Python for Research [Notebooks here](https://github.com/vitorlavor/Cursos/tree/main/edX/Using%20Python%20for%20Research)
+## 1. Using Python for Research 
+Notebooks [here](https://github.com/vitorlavor/Cursos/tree/main/edX/Using%20Python%20for%20Research)
 
 ### Instiutition
 HarvardX

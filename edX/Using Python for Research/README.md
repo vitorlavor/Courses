@@ -1,4 +1,4 @@
-## 1. Using Python for Research 
+## Using Python for Research 
 
 ### Instiutition
 HarvardX
